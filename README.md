@@ -1,6 +1,7 @@
-## Hi there 👋
+![XCI9 most used language](https://github-readme-stats.vercel.app/api/top-langs/?username=XCI9&langs_count=6&layout=compact&theme=dark&card_width=350)
 
 <!--
+## Hi there 👋
 **XCI9/XCI9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
